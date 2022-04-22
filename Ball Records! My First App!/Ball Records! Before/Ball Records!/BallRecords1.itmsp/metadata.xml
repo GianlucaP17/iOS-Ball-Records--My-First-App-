@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.2">
+    <metadata_token>1455814665447-bbca0cd5047e2d3b030d5e74c3ffc9fda605fbb0632f947ac3b5c1bc598facc2</metadata_token>
+    <provider>846S4D9DW6</provider>
+    <team_id>846S4D9DW6</team_id>
+    <software>
+        <vendor_id>BallRecords1</vendor_id>
+        <software_metadata>
+            <in_app_purchases>
+                <in_app_purchase>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Coin</title>
+                            <description>Compra dei con per poter giocare da dove sei morto</description>
+                        </locale>
+                    </locales>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Waiting for Screenshot</read_only_value>
+                    </read_only_info>
+                    <product_id>ballrecords.coin</product_id>
+                    <reference_name>coin</reference_name>
+                    <type>consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <interval>
+                                    <start_date>2016-02-18</start_date>
+                                    <wholesale_price_tier>1</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                </in_app_purchase>
+            </in_app_purchases>
+        </software_metadata>
+    </software>
+</package>
